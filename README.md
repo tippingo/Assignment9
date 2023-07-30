@@ -12,4 +12,6 @@ Possible Return Values:
  - Authenticate Failed (The request failed IE: username and password are incorrect)
  - Authenticate Complete (The request was successful IE: user was deleted from system)
  - Authenticate Complete Permissions (The login was succesfull)
+UMF:
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
