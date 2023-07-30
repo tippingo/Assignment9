@@ -14,5 +14,6 @@ Possible Return Values:
  - Authenticate Complete Permissions (The login was succesfull)
    
 UMF:
+
 ![alt text](https://github.com/tippingo/Assignment9/blob/5e1e7b9000a07531c003a15420fdc73edce71a58/UMF%20Sequence.png?raw=true)
 
